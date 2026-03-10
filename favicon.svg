@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Antennae -->
+  <line x1="14" y1="5" x2="7"  y2="1" stroke="#1fd68a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="18" y1="5" x2="25" y2="1" stroke="#1fd68a" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Head -->
+  <ellipse cx="16" cy="7.5" rx="4" ry="3.5" fill="#1fd68a"/>
+  <!-- Thorax -->
+  <ellipse cx="16" cy="14.5" rx="3" ry="3.5" fill="#1fd68a"/>
+  <!-- Legs (3 pairs from thorax) -->
+  <line x1="13" y1="12.5" x2="5"  y2="9"    stroke="#1fd68a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="19" y1="12.5" x2="27" y2="9"    stroke="#1fd68a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="13" y1="14.5" x2="4"  y2="14.5" stroke="#1fd68a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="19" y1="14.5" x2="28" y2="14.5" stroke="#1fd68a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="13" y1="16.5" x2="5"  y2="21"   stroke="#1fd68a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="19" y1="16.5" x2="27" y2="21"   stroke="#1fd68a" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Abdomen -->
+  <ellipse cx="16" cy="24.5" rx="5" ry="6" fill="#1fd68a"/>
+</svg>
